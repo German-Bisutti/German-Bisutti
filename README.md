@@ -34,3 +34,5 @@ Mi camino en este mundo comenzó desde una edad temprana, impulsado por la influ
 - Correo: germanBisutti@gmail.com 📧
 
 - LinkedIn: [Perfil de LinkedIn](https://www.linkedin.com/in/german-bisutti/)
+
+- <a href="https://linkedin.com/in/german bisutti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="german bisutti" height="30" width="40" /></a>
