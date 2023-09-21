@@ -35,7 +35,3 @@ Mi camino en este mundo comenzó desde una edad temprana, impulsado por la influ
 
 - LinkedIn: [Perfil de LinkedIn](https://www.linkedin.com/in/german-bisutti/)
 
-<p align="left">
-</p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=german-bisutti&show_icons=true&locale=en&layout=compact" alt="german-bisutti" /></p>
